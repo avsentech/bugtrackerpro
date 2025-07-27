@@ -8,9 +8,9 @@ BugTracker Pro is an advanced issue management system built with **Angular 20.0.
 |--------------|---------------------|
 | Frontend     | Angular 20.0.5      |
 | Backend      | FastAPI             |
-| Database     | PostgreSQL / MongoDB |
+| Database     | MongoDB |
 | Auth         | JWT (JSON Web Token) |
-| Styling      | Angular Material / SCSS |
+| Styling      | Angular Material |
 
 ---
 
